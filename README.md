@@ -1,4 +1,4 @@
-### नमस्ते I'm Adarsh 👋
+## नमस्ते I'm Adarsh 👋
 
 - 🔭 I’m currently working on Magetnto 2 
 - 🌱 I’m currently learning AWS, ReactJS
